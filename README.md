@@ -16,3 +16,9 @@ example I am scraping the press releases from the website of Senator Mike Crapo
 (Idaho). This basic framework could be modified to scrape the websites for every 
 member of Congress. And then once all of those press releases were stored and 
 parsed into text files the content could be used for a text analysis.
+
+#### 2. Priceonomics [Bitcoin arbitrage puzzle](http://priceonomics.com/jobs/puzzle/)
+
+I know this puzzle has been out a while by now and that there are several 
+solutions floating around online. Still, I think I'm able to demonstrate a 
+few cool things with new R packages.
