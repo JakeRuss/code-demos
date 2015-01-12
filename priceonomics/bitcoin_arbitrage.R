@@ -11,12 +11,12 @@
 ############################
 
 # Load packages
-library(gtools)
-library(httr)
-library(jsonlite)
-library(dplyr)
-library(magrittr)
-library(tidyr)
+library("gtools")
+library("httr")
+library("jsonlite")
+library("dplyr")
+library("magrittr")
+library("tidyr")
 
 # Working directory
 dir <- getwd()

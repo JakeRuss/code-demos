@@ -12,11 +12,11 @@
 ############################
 
 # Load packages
-library(XML)
-library(rvest)
-library(stringr)
-library(dplyr)
-library(magrittr)
+library("XML")
+library("rvest")
+library("stringr")
+library("dplyr")
+library("magrittr")
 
 # Working directory
 dir <- getwd()

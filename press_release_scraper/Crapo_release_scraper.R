@@ -12,11 +12,11 @@
 ############################
 
 # Load packages
-library(httr)
-library(rvest)
-library(stringr)
-library(lubridate)
-library(magrittr)
+library("httr")
+library("rvest")
+library("stringr")
+library("lubridate")
+library("magrittr")
 
 # Working directory
 dir <- getwd()
